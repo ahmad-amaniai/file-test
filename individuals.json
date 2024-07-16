@@ -1,0 +1,1102 @@
+[
+    {
+        "notes": [],
+        "firstName": "Kenneth",
+        "middleName": "Andrew",
+        "lastName": "Haswell",
+        "gender": "Male",
+        "qrCode": "10642210",
+        "resourceUri": "/individuals/3b9ebe8505b6054f81f452b443806ec651d466e601e566aed9bdfe0d1b5810b7",
+        "resourceId": "3b9ebe8505b6054f81f452b443806ec651d466e601e566aed9bdfe0d1b5810b7",
+        "isDeleted": false,
+        "isDeceased": false,
+        "aliases": [
+            {
+                "firstName": "Kenneth Andrew",
+                "lastName": "Haswell",
+                "type": "Name Spelling Variation"
+            }
+        ],
+        "addresses": [
+            {
+                "addressType": "Residential",
+                "line1": "42 Westerton, Lennoxtown",
+                "postcode": "G66 7NS",
+                "city": "Glasgow",
+                "countryIsoCode": "GB"
+            }
+        ],
+        "contactEntries": [],
+        "relEntries": [],
+        "rreEntries": [],
+        "poiEntries": [],
+        "insEntries": [],
+        "ddEntries": [
+            {
+                "caseReference": "INV5106439",
+                "reason": "Company Directors Disqualification Act 1986 (Section 7): Disqualification order or undertaking; and reporting provisions",
+                "conduct": "Nevis Home Improvements Limited",
+                "evidenceIds": [
+                    "22475322"
+                ],
+                "dateFromIso": "2018-04-17",
+                "dateToIso": "2024-04-16"
+            }
+        ],
+        "pepByAssociationEntries": [],
+        "identifiers": [],
+        "individualLinks": [],
+        "businessLinks": [],
+        "evidences": [
+            {
+                "originalUrl": "https://find-and-update.company-information.service.gov.uk/disqualified-officers/natural/zDTSb28uTd5iVCzsgcyMMGoAZBg",
+                "evidenceId": "22475322",
+                "captureDateIso": "2018-04-17",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/ari0202110/yR5H7GeFBX.pdf",
+                "datasets": [
+                    "DD"
+                ]
+            }
+        ],
+        "griEntries": [],
+        "datesOfBirthIso": [
+            "1988-02-29"
+        ],
+        "datesOfDeathIso": [],
+        "nationalitiesIsoCodes": [
+            "GB"
+        ],
+        "profileImages": [],
+        "datasets": [
+            "DD"
+        ],
+        "pepEntries": {
+            "current": [],
+            "former": []
+        },
+        "sanEntries": {
+            "current": [],
+            "former": []
+        },
+        "version": 1625236998180
+    },
+    {
+        "notes": [],
+        "firstName": "Mohammed",
+        "middleName": "Ali",
+        "lastName": "Akhtar",
+        "gender": "Male",
+        "qrCode": "10639331",
+        "resourceUri": "/individuals/5df214775327ecb3ab735ac7f41cabdde2cc6940fd74ba74673eafdf0e0e461e",
+        "resourceId": "5df214775327ecb3ab735ac7f41cabdde2cc6940fd74ba74673eafdf0e0e461e",
+        "isDeleted": false,
+        "isDeceased": false,
+        "aliases": [
+            {
+                "firstName": "Mohammed Ali",
+                "lastName": "Akhtar",
+                "type": "Name Spelling Variation"
+            }
+        ],
+        "addresses": [
+            {
+                "addressType": "Residential",
+                "line1": "30 Tewkesbury Gardens",
+                "postcode": "NW9 0QT",
+                "city": "Brent",
+                "countryIsoCode": "GB"
+            }
+        ],
+        "contactEntries": [],
+        "relEntries": [],
+        "rreEntries": [],
+        "poiEntries": [],
+        "insEntries": [],
+        "ddEntries": [
+            {
+                "caseReference": "CIB57337",
+                "reason": "Company Directors Disqualification Act 1986 (Section 8): Disqualification after investigation of company",
+                "conduct": "Dars Restaurant Limited",
+                "evidenceIds": [
+                    "22472439"
+                ],
+                "dateFromIso": "2018-12-13",
+                "dateToIso": "2024-12-12"
+            }
+        ],
+        "pepByAssociationEntries": [],
+        "identifiers": [],
+        "individualLinks": [],
+        "businessLinks": [],
+        "evidences": [
+            {
+                "originalUrl": "https://find-and-update.company-information.service.gov.uk/disqualified-officers/natural/6PfizFEiAftlHZzGTsjvpJMvL-I",
+                "evidenceId": "22472439",
+                "captureDateIso": "2018-12-13",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/ari0202110/9geOSSOW1-.pdf",
+                "datasets": [
+                    "DD"
+                ]
+            }
+        ],
+        "griEntries": [],
+        "datesOfBirthIso": [
+            "1969-10-14"
+        ],
+        "datesOfDeathIso": [],
+        "nationalitiesIsoCodes": [
+            "GB"
+        ],
+        "profileImages": [],
+        "datasets": [
+            "DD"
+        ],
+        "pepEntries": {
+            "current": [],
+            "former": []
+        },
+        "sanEntries": {
+            "current": [],
+            "former": []
+        },
+        "version": 1652818112836
+    },
+    {
+        "notes": [],
+        "firstName": "William",
+        "middleName": "",
+        "lastName": "Tirrell",
+        "gender": "Male",
+        "qrCode": "5515459",
+        "resourceUri": "/individuals/820a144a24537fb63c7ef1b400a45bda42c448e1ac8aa725c9b2167217df75be",
+        "resourceId": "820a144a24537fb63c7ef1b400a45bda42c448e1ac8aa725c9b2167217df75be",
+        "isDeleted": false,
+        "isDeceased": false,
+        "aliases": [],
+        "addresses": [
+            {
+                "addressType": "Residential",
+                "line1": "",
+                "line2": "",
+                "postcode": "",
+                "city": "",
+                "county": "New Jersey",
+                "countryIsoCode": "US"
+            }
+        ],
+        "contactEntries": [],
+        "relEntries": [
+            {
+                "category": "Financial Regulator",
+                "subcategory": "",
+                "events": [
+                    {
+                        "type": "Regulatory Enforcement List Event Type",
+                        "evidenceIds": [
+                            "1954849",
+                            "2853865",
+                            "3621963",
+                            "3856166"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "rreEntries": [],
+        "poiEntries": [],
+        "insEntries": [],
+        "ddEntries": [],
+        "pepByAssociationEntries": [],
+        "identifiers": [],
+        "individualLinks": [],
+        "businessLinks": [],
+        "evidences": [
+            {
+                "originalUrl": "http://www.sec.gov/litigation/admin/2017/34-81521.pdf",
+                "title": "",
+                "summary": "",
+                "keywords": "",
+                "evidenceId": "3856166",
+                "captureDateIso": "2017-09-01",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/0023270000/0023266582.pdf",
+                "datasets": [
+                    "REL"
+                ]
+            },
+            {
+                "originalUrl": "http://www.sec.gov/alj/aljorders/2017/ap-4844.pdf",
+                "title": "",
+                "summary": "",
+                "keywords": "",
+                "evidenceId": "3621963",
+                "captureDateIso": "2017-06-01",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/0022850000/0022848248.pdf",
+                "datasets": [
+                    "REL"
+                ]
+            },
+            {
+                "originalUrl": "http://www.sec.gov/alj/aljorders/2017/ap-4754.pdf",
+                "title": "",
+                "summary": "",
+                "keywords": "",
+                "evidenceId": "2853865",
+                "captureDateIso": "2017-04-17",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/0022675000/0022674974.pdf",
+                "datasets": [
+                    "REL"
+                ]
+            },
+            {
+                "originalUrl": "http://www.sec.gov/litigation/admin/2016/34-78142.pdf",
+                "title": "",
+                "summary": "",
+                "keywords": "",
+                "evidenceId": "1954849",
+                "captureDateIso": "2016-07-28",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/0020950000/0020949236.pdf",
+                "datasets": [
+                    "REL",
+                    "DD",
+                    "ID"
+                ]
+            }
+        ],
+        "griEntries": [],
+        "datesOfBirthIso": [
+            "1963"
+        ],
+        "datesOfDeathIso": [],
+        "nationalitiesIsoCodes": [
+            "US"
+        ],
+        "profileImages": [],
+        "datasets": [
+            "DD",
+            "REL"
+        ],
+        "pepEntries": {
+            "current": [],
+            "former": []
+        },
+        "sanEntries": {
+            "current": [],
+            "former": []
+        },
+        "version": 1700164549868
+    },
+    {
+        "notes": [],
+        "firstName": "Lee",
+        "middleName": "James",
+        "lastName": "Spencer",
+        "gender": "Male",
+        "qrCode": "10646662",
+        "resourceUri": "/individuals/c41d7daba0ebe82fdfa62dfabc5e8c0ebdd912b0245d63a69eb3a15348f72e95",
+        "resourceId": "c41d7daba0ebe82fdfa62dfabc5e8c0ebdd912b0245d63a69eb3a15348f72e95",
+        "isDeleted": false,
+        "isDeceased": false,
+        "aliases": [
+            {
+                "firstName": "Lee James",
+                "lastName": "Spencer",
+                "type": "Name Spelling Variation"
+            }
+        ],
+        "addresses": [
+            {
+                "addressType": "Residential",
+                "line1": "41 Kingsthorne Park",
+                "postcode": "L25 0QR",
+                "city": "Liverpool",
+                "countryIsoCode": "GB"
+            }
+        ],
+        "contactEntries": [],
+        "relEntries": [],
+        "rreEntries": [],
+        "poiEntries": [],
+        "insEntries": [],
+        "ddEntries": [
+            {
+                "caseReference": "INV4225901",
+                "reason": "Company Directors Disqualification Act 1986 (Section 7): Disqualification order or undertaking; and reporting provisions",
+                "conduct": "Uk Marketing Survey Services Limited",
+                "evidenceIds": [
+                    "22479810"
+                ],
+                "dateFromIso": "2016-10-14",
+                "dateToIso": "2025-10-13"
+            }
+        ],
+        "pepByAssociationEntries": [],
+        "identifiers": [],
+        "individualLinks": [],
+        "businessLinks": [],
+        "evidences": [
+            {
+                "originalUrl": "https://find-and-update.company-information.service.gov.uk/disqualified-officers/natural/UX6v1v0pN1-tyweDRYNql1a5IRs",
+                "evidenceId": "22479810",
+                "captureDateIso": "2016-10-14",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/ari0202110/-Rfae0GnvlI.pdf",
+                "datasets": [
+                    "DD"
+                ]
+            }
+        ],
+        "griEntries": [],
+        "datesOfBirthIso": [
+            "1981-01-13"
+        ],
+        "datesOfDeathIso": [],
+        "nationalitiesIsoCodes": [
+            "GB"
+        ],
+        "profileImages": [],
+        "datasets": [
+            "DD"
+        ],
+        "pepEntries": {
+            "current": [],
+            "former": []
+        },
+        "sanEntries": {
+            "current": [],
+            "former": []
+        },
+        "version": 1625236998212
+    },
+    {
+        "notes": [
+            {
+                "value": "Listed by Interpol as both Turkish and German national."
+            }
+        ],
+        "firstName": "Hakki",
+        "middleName": "Yaman",
+        "lastName": "Namli",
+        "gender": "Male",
+        "qrCode": "168875",
+        "resourceUri": "/individuals/724d5b69703536bf1e2d185924ae5981e3a4899f7fb325105683bb76769c5119",
+        "resourceId": "724d5b69703536bf1e2d185924ae5981e3a4899f7fb325105683bb76769c5119",
+        "isDeleted": false,
+        "isDeceased": false,
+        "aliases": [
+            {
+                "lastName": "Yaman",
+                "type": "Nickname"
+            },
+            {
+                "firstName": "Haki Yaman",
+                "lastName": "Namli",
+                "type": "Name Spelling Variation"
+            },
+            {
+                "firstName": "Hakkı",
+                "middleName": "Yaman",
+                "lastName": "Namlı",
+                "type": "Original Script Name"
+            },
+            {
+                "firstName": "Hakkı",
+                "lastName": "Namlı",
+                "type": "Original Script Name"
+            }
+        ],
+        "addresses": [
+            {
+                "addressType": "Business",
+                "line1": "",
+                "line2": "",
+                "postcode": "",
+                "city": "Saarbrucken Rheinland Pfalz",
+                "county": "",
+                "countryIsoCode": "DE"
+            },
+            {
+                "addressType": "Residential",
+                "line1": "",
+                "line2": "",
+                "postcode": "",
+                "city": "",
+                "county": "",
+                "countryIsoCode": "TR"
+            }
+        ],
+        "contactEntries": [],
+        "relEntries": [
+            {
+                "category": "Law Enforcement",
+                "subcategory": "",
+                "events": [
+                    {
+                        "type": "Regulatory Enforcement List Event Type",
+                        "evidenceIds": [
+                            "43267",
+                            "55862",
+                            "1108153",
+                            "1848890",
+                            "1839701",
+                            "1778272"
+                        ]
+                    }
+                ]
+            },
+            {
+                "category": "Financial Regulator",
+                "subcategory": "",
+                "events": [
+                    {
+                        "type": "Regulatory Enforcement List Event Type",
+                        "evidenceIds": [
+                            "971614"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "rreEntries": [],
+        "poiEntries": [],
+        "insEntries": [],
+        "ddEntries": [],
+        "pepByAssociationEntries": [],
+        "identifiers": [],
+        "individualLinks": [],
+        "businessLinks": [
+            {
+                "relationship": "Hakki Namli is associated to Fmb Finance Ltd",
+                "name": "Fmb Finance Ltd",
+                "resourceId": "a52ede479fc210beb52fbf7969238d11d7b41578a9d362de5230b31f2c1351a1",
+                "qrCode": "58067",
+                "resourceUri": "/businesses/a52ede479fc210beb52fbf7969238d11d7b41578a9d362de5230b31f2c1351a1",
+                "datasets": [
+                    "REL"
+                ]
+            },
+            {
+                "relationship": "Hakki Namli is associated to First Merchant International Inc",
+                "name": "First Merchant International Inc",
+                "resourceId": "8423af441ea2cda6e53ce3dc205f5d3bd8ddce30a1cc5350a19e3b1805741d30",
+                "qrCode": "58068",
+                "resourceUri": "/businesses/8423af441ea2cda6e53ce3dc205f5d3bd8ddce30a1cc5350a19e3b1805741d30",
+                "datasets": [
+                    "REL"
+                ]
+            },
+            {
+                "relationship": "Hakki Namli is associated to First Merchant Finance Ltd",
+                "name": "First Merchant Finance Ltd",
+                "resourceId": "d423508e490d2b93f524a91a5ec4d59815cc6680aad700557b145ffe47996584",
+                "qrCode": "58069",
+                "resourceUri": "/businesses/d423508e490d2b93f524a91a5ec4d59815cc6680aad700557b145ffe47996584",
+                "datasets": [
+                    "REL"
+                ]
+            },
+            {
+                "relationship": "Hakki Namli is associated to First Merchant Trust Ltd",
+                "name": "First Merchant Trust Ltd",
+                "resourceId": "0513daae7551b98f219a353c6a6a52275197a9313fd92c1dbf00ffe1efead5c4",
+                "qrCode": "58072",
+                "resourceUri": "/businesses/0513daae7551b98f219a353c6a6a52275197a9313fd92c1dbf00ffe1efead5c4",
+                "datasets": [
+                    "REL"
+                ]
+            },
+            {
+                "relationship": "Hakki Namli is associated to Standard Finance Ltd",
+                "name": "Standard Finance Ltd",
+                "resourceId": "953643c7712d5d832d09ff7f7ae8e999d79fca7bc52a4f79316a4752dfbde6d4",
+                "qrCode": "58075",
+                "resourceUri": "/businesses/953643c7712d5d832d09ff7f7ae8e999d79fca7bc52a4f79316a4752dfbde6d4",
+                "datasets": [
+                    "REL"
+                ]
+            },
+            {
+                "relationship": "Hakki Namli is associated to Millvale Holding Inc",
+                "name": "Millvale Holding Inc",
+                "resourceId": "3220a5e6bf20a85bdf8035dda5536181cb63eee3a66636e734e51854474a3268",
+                "qrCode": "58076",
+                "resourceUri": "/businesses/3220a5e6bf20a85bdf8035dda5536181cb63eee3a66636e734e51854474a3268",
+                "datasets": [
+                    "REL"
+                ]
+            },
+            {
+                "relationship": "Hakki Namli is associated to Provincial And Allied Funding Corp",
+                "name": "Provincial And Allied Funding Corp",
+                "resourceId": "c11d8b8c44f9a62d7501d9cc341c37b863cc4463a07ad71ee3ac8b4b82e41ffc",
+                "qrCode": "58077",
+                "resourceUri": "/businesses/c11d8b8c44f9a62d7501d9cc341c37b863cc4463a07ad71ee3ac8b4b82e41ffc",
+                "datasets": [
+                    "REL"
+                ]
+            },
+            {
+                "relationship": "President, Chairman and General Manager",
+                "name": "The First Merchant Bank Osh Limited",
+                "resourceId": "d5f15a71219ab3e88180e39b7126e75009261bf1e12c9abcfc0537e2a411e839",
+                "qrCode": "688435",
+                "resourceUri": "/businesses/d5f15a71219ab3e88180e39b7126e75009261bf1e12c9abcfc0537e2a411e839",
+                "datasets": [
+                    "REL"
+                ]
+            },
+            {
+                "relationship": "Hakki Namli is associated to Topinvest Holding International Limited",
+                "name": "Topinvest Holding International Limited",
+                "resourceId": "a2913ce93dbd4f0ea5ffec3a1605d49da03fab856b65531d7a0dec9fdcf187f6",
+                "qrCode": "832148",
+                "resourceUri": "/businesses/a2913ce93dbd4f0ea5ffec3a1605d49da03fab856b65531d7a0dec9fdcf187f6",
+                "datasets": [
+                    "REL"
+                ]
+            }
+        ],
+        "evidences": [
+            {
+                "originalUrl": "Hakki Yaman Namli.mdi",
+                "title": "",
+                "summary": "",
+                "keywords": "",
+                "evidenceId": "55862",
+                "captureDateIso": "2016-09-08",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/0000055000/0000050008.pdf",
+                "datasets": [
+                    "REL",
+                    "ID"
+                ]
+            },
+            {
+                "originalUrl": "http://www.interpol.int/notice/search/wanted/2012-292787",
+                "title": "",
+                "summary": "Formerly listed as a wanted individual by INTERPOL.",
+                "keywords": "",
+                "evidenceId": "1848890",
+                "captureDateIso": "2015-10-27",
+                "isCopyrighted": true,
+                "datasets": [
+                    "REL",
+                    "ID"
+                ]
+            },
+            {
+                "originalUrl": "http://www.nationalcrimeagency.gov.uk/news/news-listings/427-persistence-pays-off-as-nca-recovers-more-than-7m-of-illegal-profits",
+                "title": "",
+                "summary": "In the civil recovery application the NCA submitted that Mr. Hakki Yaman Namli, who resides in Turkey, was involved in fraud on an international  scale and had derived millions of US dollars, held in two UK bank accounts, from complex investment fraud and money laundering.  Mr. Namli owned  and managed the First Merchant Bank OSH Ltd in north Cyprus.  However the  judge further ruled that other money in the account was not recoverable as it represented the profits on investments made with money loaned to  Mr. Namli by the bank.   ‐ Two week trial in RCJ 11 April to 25 April 2013  ‐ The Recovery Order was granted against Hakki Yaman Namli address in Turkey, and Topinvest Holding International Limited on 10 May 2013 in  RCJ.",
+                "keywords": "laundering,fraud",
+                "evidenceId": "1778272",
+                "captureDateIso": "2014-08-19",
+                "isCopyrighted": true,
+                "datasets": [
+                    "REL"
+                ]
+            },
+            {
+                "originalUrl": "http://www.nationalcrimeagency.gov.uk/news/news-listings/427-persistence-pays-off-as-nca-recovers-more-than-7m-of-illegal-profits\" class=\"arrowSmall",
+                "title": "",
+                "summary": "In the civil recovery application the NCA submitted that Mr. Hakki Yaman Namli, who resides in Turkey, was involved in fraud on an international  scale and had derived millions of US dollars, held in two UK bank accounts, from complex investment fraud and money laundering.  Mr. Namli owned  and managed the First Merchant Bank OSH Ltd in north Cyprus.  However the  judge further ruled that other money in the account was not recoverable as it represented the profits on investments made with money loaned to  Mr. Namli by the bank.   ‐ Two week trial in RCJ 11 April to 25 April 2013  ‐ The Recovery Order was granted against Hakki Yaman Namli address in Turkey, and Topinvest Holding International Limited on 10 May 2013 in  RCJ.",
+                "keywords": "laundering,fraud",
+                "evidenceId": "1839701",
+                "captureDateIso": "2014-08-19",
+                "isCopyrighted": true,
+                "datasets": [
+                    "REL"
+                ]
+            },
+            {
+                "originalUrl": "http://www.fincen.gov/statutes_regs/patriot/pdf/waisgate1.pdf",
+                "title": "",
+                "summary": "",
+                "keywords": "",
+                "evidenceId": "971614",
+                "captureDateIso": "2009-09-21",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/0016025000/0016020852.pdf",
+                "datasets": [
+                    "REL",
+                    "DD",
+                    "ID"
+                ]
+            },
+            {
+                "originalUrl": "http://www.usdoj.gov/usao/nys/pressreleases/November03/jarsonrelease.pdf",
+                "title": "",
+                "summary": "",
+                "keywords": "",
+                "evidenceId": "1108153",
+                "captureDateIso": "2009-04-20",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/0015010000/0015009663.pdf",
+                "datasets": [
+                    "REL",
+                    "ID"
+                ]
+            },
+            {
+                "originalUrl": "http://www.usdoj.gov/usao/nys/Press%20Releases/November03/Jarsonrelease.pdf",
+                "title": "",
+                "summary": "",
+                "keywords": "",
+                "evidenceId": "43267",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/0000100000/0000097440.pdf",
+                "datasets": [
+                    "REL",
+                    "ID"
+                ]
+            }
+        ],
+        "griEntries": [],
+        "datesOfBirthIso": [
+            "1965-06-02"
+        ],
+        "datesOfDeathIso": [],
+        "nationalitiesIsoCodes": [
+            "TR"
+        ],
+        "profileImages": [
+            "https://www.acurisriskintelligence.com/cdn/content/0010110000/0010109508.jpg"
+        ],
+        "datasets": [
+            "DD",
+            "REL"
+        ],
+        "pepEntries": {
+            "current": [],
+            "former": []
+        },
+        "sanEntries": {
+            "current": [],
+            "former": []
+        },
+        "version": 1695710140075
+    },
+    {
+        "notes": [],
+        "firstName": "Richard",
+        "lastName": "Bevins",
+        "gender": "Male",
+        "qrCode": "11433855",
+        "resourceUri": "/individuals/1e8259a7cd373a288a3f7876d4d84bf7a9145bb5612068a06be30edf76f46763",
+        "resourceId": "1e8259a7cd373a288a3f7876d4d84bf7a9145bb5612068a06be30edf76f46763",
+        "isDeleted": false,
+        "isDeceased": false,
+        "aliases": [],
+        "addresses": [
+            {
+                "addressType": "Residential",
+                "line1": "97 Heathcott Road",
+                "postcode": "LE2 6LS",
+                "city": "Leicester",
+                "countryIsoCode": "GB"
+            }
+        ],
+        "contactEntries": [],
+        "relEntries": [],
+        "rreEntries": [],
+        "poiEntries": [],
+        "insEntries": [],
+        "ddEntries": [
+            {
+                "caseReference": "INV6356609",
+                "reason": "Company Directors Disqualification Act 1986 (Section 7): Disqualification order or undertaking; and reporting provisions",
+                "conduct": "Bevins Professional Outsource Solutions Ltd",
+                "evidenceIds": [
+                    "23283755"
+                ],
+                "dateFromIso": "2022-02-22",
+                "dateToIso": "2030-02-21"
+            }
+        ],
+        "pepByAssociationEntries": [],
+        "identifiers": [],
+        "individualLinks": [],
+        "businessLinks": [],
+        "evidences": [
+            {
+                "originalUrl": "https://find-and-update.company-information.service.gov.uk/disqualified-officers/natural/gvCOqWBMh1jNgIwLsP5dXHoDcVM",
+                "credibility": "High",
+                "language": "eng",
+                "evidenceId": "23283755",
+                "captureDateIso": "2022-02-22",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/ari0202212/4x809wBCaVj1R84z_kAWT.pdf",
+                "datasets": [
+                    "DD"
+                ]
+            }
+        ],
+        "griEntries": [],
+        "datesOfBirthIso": [
+            "1959-04-01"
+        ],
+        "datesOfDeathIso": [],
+        "nationalitiesIsoCodes": [
+            "GB"
+        ],
+        "profileImages": [],
+        "datasets": [
+            "DD"
+        ],
+        "pepEntries": {
+            "current": [],
+            "former": []
+        },
+        "sanEntries": {
+            "current": [],
+            "former": []
+        },
+        "version": 1647953639988
+    },
+    {
+        "notes": [],
+        "firstName": "Patrick",
+        "middleName": "",
+        "lastName": "Fisher",
+        "gender": "Male",
+        "qrCode": "10641124",
+        "resourceUri": "/individuals/be3e34580c5545ff030dc45fb0275c09ad3a692bef78c53c0e1b00fd4ebfdd6a",
+        "resourceId": "be3e34580c5545ff030dc45fb0275c09ad3a692bef78c53c0e1b00fd4ebfdd6a",
+        "isDeleted": false,
+        "isDeceased": false,
+        "aliases": [],
+        "addresses": [
+            {
+                "addressType": "Residential",
+                "line1": "2 School Avenue",
+                "postcode": "NR7 0QU",
+                "city": "Norwich",
+                "county": "Norfolk",
+                "countryIsoCode": "GB"
+            }
+        ],
+        "contactEntries": [],
+        "relEntries": [],
+        "rreEntries": [
+            {
+                "category": "Financial Crime and Fraud",
+                "subcategory": "Financial and Non-Financial Fraud",
+                "events": [
+                    {
+                        "type": "Court Proceedings in Progress: Sentence - Guilty",
+                        "evidenceIds": [
+                            "22161054"
+                        ],
+                        "dateIso": "2019-11-16"
+                    }
+                ]
+            }
+        ],
+        "poiEntries": [],
+        "insEntries": [],
+        "ddEntries": [
+            {
+                "caseReference": "T20180446",
+                "reason": "Company Directors Disqualification Act 1986 (Section 2): Disqualification on conviction of indictable offence",
+                "conduct": "The Craft Brewing Company T/A Redwell Brewery",
+                "evidenceIds": [
+                    "22474226"
+                ],
+                "dateFromIso": "2019-12-12",
+                "dateToIso": "2023-12-11"
+            }
+        ],
+        "pepByAssociationEntries": [],
+        "identifiers": [],
+        "individualLinks": [],
+        "businessLinks": [],
+        "evidences": [
+            {
+                "originalUrl": "https://www.edp24.co.uk/news/crime/norwich-brewery-founder-patrick-fisher-jailed-for-fraud-1-6383177",
+                "title": "‘Cavalier’ brewery founder jailed for fraud",
+                "summary": "The subject was jailed after pleading guilty on fraud charges in November 2019. He made one presentation fraud between January 1, 2015, and January 31, 2017 for GBP 30,000 and one false invoice fraud between January 1, 2015, and January 31, 2017 for GBP 41,480.\n\nSource: Eastern Daily Press, 19 November 2019",
+                "keywords": "fraud,jailed,sentenced",
+                "evidenceId": "22161054",
+                "captureDateIso": "2020-09-15",
+                "isCopyrighted": true,
+                "datasets": [
+                    "RRE",
+                    "ID"
+                ]
+            },
+            {
+                "originalUrl": "https://find-and-update.company-information.service.gov.uk/disqualified-officers/natural/nZwRg3TY-UQJpCUoFkflspbva-o",
+                "evidenceId": "22474226",
+                "captureDateIso": "2019-12-12",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/ari0202110/oJHHvOv7KBG.pdf",
+                "datasets": [
+                    "DD"
+                ]
+            }
+        ],
+        "griEntries": [],
+        "datesOfBirthIso": [
+            "1980-01-26"
+        ],
+        "datesOfDeathIso": [],
+        "nationalitiesIsoCodes": [
+            "GB"
+        ],
+        "profileImages": [
+            "https://www.acurisriskintelligence.com/cdn/content/ari0202038/XwC13agn1.jpg"
+        ],
+        "datasets": [
+            "DD",
+            "RRE"
+        ],
+        "pepEntries": {
+            "current": [],
+            "former": []
+        },
+        "sanEntries": {
+            "current": [],
+            "former": []
+        },
+        "version": 1644329030132
+    },
+    {
+        "notes": [],
+        "firstName": "Charlotte",
+        "lastName": "Niamh Darling",
+        "gender": "Female",
+        "qrCode": "11137961",
+        "resourceUri": "/individuals/7c5b4f2ac25e53bb28843aa57eeb6f1637c978863edb060d4db32dbeef747699",
+        "resourceId": "7c5b4f2ac25e53bb28843aa57eeb6f1637c978863edb060d4db32dbeef747699",
+        "isDeleted": false,
+        "isDeceased": false,
+        "aliases": [
+            {
+                "firstName": "Charlotte",
+                "middleName": "Niamh",
+                "lastName": "Darling",
+                "type": "Previous Name"
+            }
+        ],
+        "addresses": [
+            {
+                "addressType": "Residential",
+                "line1": "Carterhaugh House",
+                "postcode": "TD7 5HE",
+                "city": "Selkirk",
+                "countryIsoCode": "GB"
+            }
+        ],
+        "contactEntries": [],
+        "relEntries": [],
+        "rreEntries": [],
+        "poiEntries": [],
+        "insEntries": [],
+        "ddEntries": [
+            {
+                "caseReference": "INV5570913",
+                "reason": "Company Directors Disqualification Act 1986 (Section 7): Disqualification order or undertaking; and reporting provisions",
+                "conduct": "Ittria Services Limited",
+                "evidenceIds": [
+                    "22884403"
+                ],
+                "dateFromIso": "2021-07-28",
+                "dateToIso": "2026-01-27"
+            }
+        ],
+        "pepByAssociationEntries": [],
+        "identifiers": [],
+        "individualLinks": [],
+        "businessLinks": [],
+        "evidences": [
+            {
+                "originalUrl": "https://find-and-update.company-information.service.gov.uk/disqualified-officers/natural/JVUu3WEWXDjzaNKw6qt3NTqpNFQ",
+                "credibility": "High",
+                "language": "eng",
+                "evidenceId": "22884403",
+                "captureDateIso": "2021-07-28",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/ari0202132/xAZvxIVh1Bj.pdf",
+                "datasets": [
+                    "DD"
+                ]
+            }
+        ],
+        "griEntries": [],
+        "datesOfBirthIso": [
+            "1975-05-09"
+        ],
+        "datesOfDeathIso": [],
+        "nationalitiesIsoCodes": [
+            "GB"
+        ],
+        "profileImages": [],
+        "datasets": [
+            "DD"
+        ],
+        "pepEntries": {
+            "current": [],
+            "former": []
+        },
+        "sanEntries": {
+            "current": [],
+            "former": []
+        },
+        "version": 1628495607783
+    },
+    {
+        "notes": [],
+        "firstName": "Asad",
+        "lastName": "Salam",
+        "gender": "Male",
+        "qrCode": "10646030",
+        "resourceUri": "/individuals/9820cb42b488bb8ffc25db1d455fb22e4ee6d1a7de3901ceafb8a527f5773d34",
+        "resourceId": "9820cb42b488bb8ffc25db1d455fb22e4ee6d1a7de3901ceafb8a527f5773d34",
+        "isDeleted": false,
+        "isDeceased": false,
+        "aliases": [],
+        "addresses": [
+            {
+                "addressType": "Residential",
+                "line1": "Flat 10 Augustus Court, Augustus Road",
+                "postcode": "SW19 6NA",
+                "city": "London",
+                "countryIsoCode": "GB"
+            }
+        ],
+        "contactEntries": [],
+        "relEntries": [],
+        "rreEntries": [],
+        "poiEntries": [],
+        "insEntries": [],
+        "ddEntries": [
+            {
+                "caseReference": "INV4683091",
+                "reason": "Company Directors Disqualification Act 1986 (Section 7): Disqualification order or undertaking; and reporting provisions",
+                "conduct": "Fbit Limited",
+                "evidenceIds": [
+                    "22479175"
+                ],
+                "dateFromIso": "2019-06-24",
+                "dateToIso": "2023-06-23"
+            }
+        ],
+        "pepByAssociationEntries": [],
+        "identifiers": [],
+        "individualLinks": [],
+        "businessLinks": [],
+        "evidences": [
+            {
+                "originalUrl": "https://find-and-update.company-information.service.gov.uk/disqualified-officers/natural/-0K6fnUzg58-wfalAjgznJzVzig",
+                "evidenceId": "22479175",
+                "captureDateIso": "2019-06-24",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/ari0202110/jXzJdv8Wwo.pdf",
+                "datasets": [
+                    "DD"
+                ]
+            }
+        ],
+        "griEntries": [],
+        "datesOfBirthIso": [
+            "1965-02-09"
+        ],
+        "datesOfDeathIso": [],
+        "nationalitiesIsoCodes": [
+            "GB"
+        ],
+        "profileImages": [],
+        "datasets": [
+            "DD"
+        ],
+        "pepEntries": {
+            "current": [],
+            "former": []
+        },
+        "sanEntries": {
+            "current": [],
+            "former": []
+        },
+        "version": 1652850282279
+    },
+    {
+        "notes": [],
+        "firstName": "Mohammed",
+        "lastName": "Ibraheem",
+        "gender": "Male",
+        "qrCode": "10643487",
+        "resourceUri": "/individuals/e748b2823b140ca3f23224de03664d0d1a459c1fb60765a3f90b353da0215a98",
+        "resourceId": "e748b2823b140ca3f23224de03664d0d1a459c1fb60765a3f90b353da0215a98",
+        "isDeleted": false,
+        "isDeceased": false,
+        "aliases": [],
+        "addresses": [
+            {
+                "addressType": "Residential",
+                "line1": "172 Manchester Road",
+                "postcode": "OL11 4JQ",
+                "city": "Rochdale",
+                "countryIsoCode": "GB"
+            }
+        ],
+        "contactEntries": [],
+        "relEntries": [],
+        "rreEntries": [],
+        "poiEntries": [],
+        "insEntries": [],
+        "ddEntries": [
+            {
+                "caseReference": "INV4717163",
+                "reason": "Company Directors Disqualification Act 1986 (Section 7): Disqualification order or undertaking; and reporting provisions",
+                "conduct": "Connect Trading Limited",
+                "evidenceIds": [
+                    "22476609"
+                ],
+                "dateFromIso": "2017-02-17",
+                "dateToIso": "2029-02-16"
+            }
+        ],
+        "pepByAssociationEntries": [],
+        "identifiers": [],
+        "individualLinks": [],
+        "businessLinks": [],
+        "evidences": [
+            {
+                "originalUrl": "https://find-and-update.company-information.service.gov.uk/disqualified-officers/natural/tKZI99a67r-ClzeSbOiYYTgc6TU",
+                "evidenceId": "22476609",
+                "captureDateIso": "2017-02-17",
+                "isCopyrighted": false,
+                "assetUrl": "https://www.acurisriskintelligence.com/cdn/content/ari0202110/L6PvGh3D9Xm.pdf",
+                "datasets": [
+                    "DD"
+                ]
+            }
+        ],
+        "griEntries": [],
+        "datesOfBirthIso": [
+            "1978-05-10"
+        ],
+        "datesOfDeathIso": [],
+        "nationalitiesIsoCodes": [
+            "GB"
+        ],
+        "profileImages": [],
+        "datasets": [
+            "DD"
+        ],
+        "pepEntries": {
+            "current": [],
+            "former": []
+        },
+        "sanEntries": {
+            "current": [],
+            "former": []
+        },
+        "version": 1652850280627
+    }
+]
